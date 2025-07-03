@@ -30,13 +30,14 @@ To uncover actionable insights related to restaurant types, customer preferences
 
 ---
 
-### 📁 Folder Structure (optional if added)
 
-```
-├── data/(Zomato data .csv)
-├── notebooks/(zomatoproject.ipynb)
-├── visuals/(heatmap_as_per_order_booking.jpg)
-
+## 📸 Preview
 ![Dashboard Screenshot](heatmap_as_per_order_booking.jpg)
+
+
+## 📬 Let’s Connect!
+Feel free to share your feedback or connect with me on [LinkedIn](https://www.linkedin.com/in/deemisofficial/).
+
+
 
 
