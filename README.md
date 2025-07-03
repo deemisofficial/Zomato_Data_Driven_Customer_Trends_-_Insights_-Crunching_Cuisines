@@ -33,6 +33,10 @@ To uncover actionable insights related to restaurant types, customer preferences
 ### 📁 Folder Structure (optional if added)
 
 ```
-├── data/              # Raw and cleaned datasets
-├── notebooks/         # Jupyter Notebooks with analysis
-├── visuals/           # Saved plots and heatmaps
+├── data/(Zomato data .csv)
+├── notebooks/(zomatoproject.ipynb)
+├── visuals/(heatmap_as_per_order_booking.jpg)
+
+![Dashboard Screenshot](heatmap_as_per_order_booking.jpg)
+
+
